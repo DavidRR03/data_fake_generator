@@ -30,7 +30,7 @@ Clona este repositorio:
 
 bash
 Copiar código
-git clone [https://github.com/tuusuario/data_fake_generator.git](https://github.com/DavidRR03/data_fake_generator/blob/main/README.md)
+git clone [https://github.com/DavidRR03/data_fake_generator/blob/main/README.md]
 Accede al directorio del proyecto:  
 
 bash
