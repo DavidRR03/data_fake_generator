@@ -10,7 +10,8 @@ Generación de datos falsos, como:
 * Fechas de nacimiento
 * Matrículas
 * Países, entre otros.
-Puedes seleccionar los campos que deseas incluir y la cantidad de datos a generar.
+
+Puedes seleccionar los campos que deseas incluir y la cantidad de datos a generar.  
 Descarga de los datos generados en formato CSV para su fácil integración con otras herramientas.
 
 ## 🛠️ Tecnologías utilizadas
