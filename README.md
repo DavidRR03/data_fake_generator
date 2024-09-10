@@ -18,11 +18,12 @@ Streamlit: Para la creación de la interfaz web interactiva.
 Faker: Librería para generar los datos falsos.
 Pandas: Para la manipulación y exportación de datos en formato CSV.
 ## 🎥 Vista previa de la aplicación
-Interfaz principal
-
-Selección de campos
-
-Datos generados
+Interfaz principal  
+![Pantalla principal](https://github.com/DavidRR03/data_fake_generator/blob/main/pant1.jpeg)
+Selección de campos  
+![Selección de campos](https://github.com/DavidRR03/data_fake_generator/blob/main/pant2.jpeg)
+Datos generados  
+![Datos generados](https://github.com/DavidRR03/data_fake_generator/blob/main/pant3.jpeg)
 
 ## 🚀 Cómo usar esta aplicación
 Instalación
