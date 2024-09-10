@@ -15,10 +15,10 @@ Puedes seleccionar los campos que deseas incluir y la cantidad de datos a genera
 Descarga de los datos generados en formato CSV para su fácil integración con otras herramientas.
 
 ## 🛠️ Tecnologías utilizadas
-Python
-Streamlit: Para la creación de la interfaz web interactiva.
-Faker: Librería para generar los datos falsos.
-Pandas: Para la manipulación y exportación de datos en formato CSV.
+* Python  
+* Streamlit: Para la creación de la interfaz web interactiva.  
+* Faker: Librería para generar los datos falsos.  
+* Pandas: Para la manipulación y exportación de datos en formato CSV.  
 
 ## 🎥 Vista previa de la aplicación
 
