@@ -35,28 +35,24 @@ Descarga de los datos generados en formato CSV para su fácil integración con o
 ![Datos generados](https://github.com/DavidRR03/data_fake_generator/blob/main/pant3.jpeg)
 
 ## 🚀 Cómo usar esta aplicación
-Instalación
+#### Instalación  
 Clona este repositorio:
 
-bash
-Copiar código
-git clone [https://github.com/DavidRR03/data_fake_generator/blob/main/README.md]
+git clone [https://github.com/DavidRR03/data_fake_generator/blob/main/README.md]  
+
 Accede al directorio del proyecto:  
 
-bash
-Copiar código
-cd data_fake_generator
+cd data_fake_generator  
+
 Instala las dependencias necesarias:  
 
-bash
-Copiar código
-pip install -r requirements.txt
-Ejecución
+pip install -r requirements.txt  
+
+Ejecución  
 Una vez instaladas las dependencias, puedes ejecutar la aplicación localmente con el siguiente comando:  
 
-bash
-Copiar código
-streamlit run main.py
+streamlit run main.py  
+
 Esto abrirá la aplicación en tu navegador predeterminado, donde podrás comenzar a generar datos falsos.  
 
 #### Generación de datos y descarga
@@ -81,7 +77,8 @@ Haz push a la rama:
 bash
 Copiar código
 git push origin mi-nueva-funcionalidad
-Abre un Pull Request.
+Abre un Pull Request.  
+
 📄 Licencia
 Este proyecto no tiene una licencia específica. Siéntete libre de utilizarlo para tus propios proyectos o hacerle mejoras.
 
