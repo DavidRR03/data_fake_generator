@@ -30,24 +30,24 @@ Clona este repositorio:
 
 bash
 Copiar código
-git clone https://github.com/tuusuario/data_fake_generator.git
-Accede al directorio del proyecto:
+git clone [https://github.com/tuusuario/data_fake_generator.git](https://github.com/DavidRR03/data_fake_generator/blob/main/README.md)
+Accede al directorio del proyecto:  
 
 bash
 Copiar código
 cd data_fake_generator
-Instala las dependencias necesarias:
+Instala las dependencias necesarias:  
 
 bash
 Copiar código
 pip install -r requirements.txt
 Ejecución
-Una vez instaladas las dependencias, puedes ejecutar la aplicación localmente con el siguiente comando:
+Una vez instaladas las dependencias, puedes ejecutar la aplicación localmente con el siguiente comando:  
 
 bash
 Copiar código
 streamlit run main.py
-Esto abrirá la aplicación en tu navegador predeterminado, donde podrás comenzar a generar datos falsos.
+Esto abrirá la aplicación en tu navegador predeterminado, donde podrás comenzar a generar datos falsos.  
 
 Generación de datos y descarga
 Selecciona los campos que deseas generar.
