@@ -4,19 +4,21 @@ Data Fake Generator es una aplicación construida en Python que permite generar 
 
 ## 📋 Funcionalidades
 Generación de datos falsos, como:
-Nombres
-Direcciones
-Teléfonos
-Fechas de nacimiento
-Matrículas
-Países, entre otros.
+* Nombres
+* Direcciones
+* Teléfonos
+* Fechas de nacimiento
+* Matrículas
+* Países, entre otros.
 Puedes seleccionar los campos que deseas incluir y la cantidad de datos a generar.
 Descarga de los datos generados en formato CSV para su fácil integración con otras herramientas.
+
 ## 🛠️ Tecnologías utilizadas
 Python
 Streamlit: Para la creación de la interfaz web interactiva.
 Faker: Librería para generar los datos falsos.
 Pandas: Para la manipulación y exportación de datos en formato CSV.
+
 ## 🎥 Vista previa de la aplicación
 
 ### Interfaz principal  
@@ -56,11 +58,12 @@ Copiar código
 streamlit run main.py
 Esto abrirá la aplicación en tu navegador predeterminado, donde podrás comenzar a generar datos falsos.  
 
-Generación de datos y descarga
-Selecciona los campos que deseas generar.
-Indica la cantidad de registros.
-Haz clic en Generar datos.
+#### Generación de datos y descarga
+* Selecciona los campos que deseas generar.
+* Indica la cantidad de registros.
+* Haz clic en Generar datos.
 Los datos se mostrarán en pantalla y podrás descargarlos en formato CSV para su uso.
+
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas colaborar:
 
